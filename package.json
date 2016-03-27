@@ -1,0 +1,48 @@
+{
+<<<<<<< HEAD
+  "name": "login-passport",
+  "version": "1.0.0",
+  "description": "Login with Passport API",
+=======
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Login",
+>>>>>>> 3066045db66d7e9ff255ba45f217fc49d5b04ffd
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+<<<<<<< HEAD
+    "Login",
+    "With",
+    "Passport",
+    "API"
+  ],
+  "author": "BlackBeard",
+=======
+    "Login"
+  ],
+  "author": "Black Beard",
+>>>>>>> 3066045db66d7e9ff255ba45f217fc49d5b04ffd
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.0",
+<<<<<<< HEAD
+    "express": "^4.13.4",
+    "jwt-simple": "^0.5.0",
+    "mongoose": "^4.4.10",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.0.0"
+=======
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.10",
+    "morgan": "^1.7.0",
+    "swig": "^1.4.2"
+>>>>>>> 3066045db66d7e9ff255ba45f217fc49d5b04ffd
+  }
+}

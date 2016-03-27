@@ -1,0 +1,484 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"qu",
+				"querystring.stringify"
+			],
+			[
+				"quer",
+				"querystring.parse"
+			],
+			[
+				"inpu",
+				"inputc	input - checkbox"
+			],
+			[
+				"in",
+				"inputb	input - button"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"us",
+				"use strict';	'use strict';"
+			],
+			[
+				"categories",
+				"categories_controller"
+			],
+			[
+				"pho",
+				"photosDB"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"file",
+				"file_info"
+			],
+			[
+				"p",
+				"photos"
+			],
+			[
+				"mo",
+				"mouseover	.mouseover()"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mouse",
+				"mouseover	.mouseover()"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"newCover",
+				"newCoverTitle"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"alert",
+				"alert(message)	Window"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"cl",
+				"click	.click()"
+			],
+			[
+				"desc",
+				"description-Array"
+			],
+			[
+				"mou",
+				"mouseleave	.mouseleave()"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"aler",
+				"alert(message)	Window"
+			],
+			[
+				"fun",
+				"function with name"
+			],
+			[
+				"ale",
+				"alert(message)	Window"
+			],
+			[
+				"ani",
+				"animationend	Event"
+			],
+			[
+				"anima",
+				"animate	.animate()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bo",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"last_filter": "ntall",
+		"selected_items":
+		[
+			[
+				"ntall",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Developer/js/login-passport"
+	],
+	"file_history":
+	[
+		"/D/Developer/js/login/server.js",
+		"/D/Developer/js/login/app/models/user.js",
+		"/D/Developer/js/login/public/js/add.js",
+		"/D/Developer/js/login/app/views/login.html",
+		"/D/Developer/js/login/config.js",
+		"/D/Developer/js/login/public/add.html",
+		"/D/Developer/js/login/rotas.js",
+		"/D/Developer/js/login/controllerCriaUsuario.js",
+		"/D/Developer/js/login/ModelUsuario.js",
+		"/D/Developer/js/login/package.json",
+		"/D/Developer/js/login/app/config.js",
+		"/D/Developer/php/blackfront/index.html",
+		"/D/Developer/php/blackfront/code.js",
+		"/D/Developer/php/blackfront/sss",
+		"/D/Developer/php/blackbeard/server.js",
+		"/D/Developer/php/blackbeard/model/tag.js",
+		"/D/Developer/php/blackbeard/controller/articles_controller.js",
+		"/D/Developer/php/blackbeard/controller/tags_controller.js",
+		"/D/Developer/php/blackbeard/config/routes.js",
+		"/D/Developer/php/blackbeard/controller/users_controller.js",
+		"/D/Developer/php/blackbeard/controller/profile_controller.js",
+		"/D/Developer/php/blackbeard/controller/categories_controller.js",
+		"/D/Developer/php/blackbeard/routes/routes.js",
+		"/D/Developer/php/blackbeard/routes/tags.js",
+		"/D/Developer/laravel/taty-laravel/database/migrations/2016_03_10_234310_create_articles_table.php",
+		"/D/Developer/laravel/taty-laravel/resources/views/admin/article/new.blade.php",
+		"/D/Developer/laravel/taty-laravel/app/Article.php",
+		"/D/Developer/laravel/taty-laravel/app/Http/Controllers/ArticleController.php",
+		"/D/Developer/laravel/taty-laravel/.env",
+		"/D/Mateus/NODE/tatyweb/public/js/custom/app.js",
+		"/D/Mateus/NODE/tatyweb/app/views/home/detail.html",
+		"/D/Mateus/NODE/tatyweb/app/controllers/articles.js",
+		"/D/Mateus/NODE/tatyweb/package.json",
+		"/D/Mateus/NODE/tatyweb/config/express.js",
+		"/D/Mateus/NODE/tatyweb/app/views/layouts/includes/foot.html",
+		"/D/Mateus/NODE/tatyweb/public/js/jquery.magnific-popup.min.js",
+		"/D/Mateus/NODE/tatyweb/app/views/layouts/includes/footer.html",
+		"/D/Mateus/NODE/tatyweb/app/views/layouts/includes/head.html",
+		"/D/Mateus/NODE/tatyweb/app/views/home/portfolio.html",
+		"/D/Mateus/NODE/tatyweb/public/css/custom/portfolio.css",
+		"/D/Mateus/NODE/tatyweb/jquery.txt",
+		"/D/Mateus/NODE/tatyweb/app/views/home/outros.html",
+		"/I/Dev/Node/tatyweb/app/views/home/detail.html",
+		"/I/Dev/Node/tatyweb/app/controllers/home.js",
+		"/I/Dev/Node/tatyweb/app/models/article.js",
+		"/I/Dev/Node/tatyweb/public/css/custom/portfolio.css",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/show.html",
+		"/I/Dev/Node/tatyweb/app/views/home/portfolio.html",
+		"/I/Dev/Node/tatyweb/config/routes.js",
+		"/I/Dev/Node/tatyweb/public/css/custom/responsive.css",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/form.html",
+		"/I/Dev/Node/tatyweb/app/controllers/articles.js",
+		"/I/Dev/Node/tatyweb/app/controllers/categories.js",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/article.html",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/cover.html",
+		"/I/Dev/Node/tatyweb/app/views/layouts/includes/header_admin.html",
+		"/I/Dev/Node/tatyweb/public/css/custom/style.css",
+		"/I/Dev/Node/tatyweb/app/views/layouts/includes/foot.html",
+		"/I/Dev/Node/tatyweb/public/js/custom/app.js",
+		"/I/Dev/Node/tatyweb/app/helpers/upload.js",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/newphoto.html",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/index.html",
+		"/I/Dev/Node/tatyweb/public/css/custom/admin.css",
+		"/I/Dev/Node/tatyweb/app/views/admin/articles/more.html",
+		"/I/Dev/Node/tatyweb/app/controllers/articlesDep.js",
+		"/D/Mateus/taty/app/views/admin/articles/photos.html",
+		"/D/Mateus/taty/app/controllers/articles.js",
+		"/D/Mateus/taty/app/models/article.js",
+		"/D/Mateus/taty/app/views/admin/articles/form.html",
+		"/D/Mateus/taty/config/routes.js",
+		"/D/Mateus/taty/app/controllers/menus.js",
+		"/D/Mateus/taty/app/models/menu.js",
+		"/D/Mateus/taty/app/models/user.js",
+		"/D/Mateus/taty/app/views/admin/articles/cover.html",
+		"/D/Mateus/taty/public/css/custom/admin.css",
+		"/D/Mateus/taty/app/models/articleDep.js",
+		"/D/Mateus/taty/app/views/admin/articles/index.html",
+		"/D/Mateus/taty/app/views/admin/articles/article.html",
+		"/D/Mateus/taty/app/controllers/articlesOld.js",
+		"/D/Mateus/taty/app/views/admin/articles/show.html",
+		"/D/Mateus/taty/config/express.js",
+		"/D/Mateus/taty/app/views/admin/categories/form.html",
+		"/D/Mateus/taty/app/controllers/categories.js",
+		"/D/Mateus/taty/app/models/category.js",
+		"/D/Mateus/taty/app/views/admin/menus/form.html",
+		"/D/Mateus/taty/app/views/admin/menus/index.html",
+		"/D/Mateus/taty/app/views/admin/categories/index.html",
+		"/D/Mateus/taty/app/views/admin/categories/category.html",
+		"/D/Mateus/taty/app/models/categoryOld.js",
+		"/D/Mateus/taty/public/js/custom/app.js",
+		"/D/Mateus/taty/app/views/admin/menus/edit.html",
+		"/D/Mateus/taty/app/views/admin/menus/menu.html",
+		"/D/Mateus/taty/app/views/home/perfil.html",
+		"/D/Mateus/taty/app/views/home/contato.html",
+		"/I/Dev/Node/taty/app/views/home/index.html",
+		"/I/Dev/Node/taty/app/controllers/home.js",
+		"/I/Dev/Node/taty/config/routes.js",
+		"/I/Dev/Node/taty/app/views/layouts/includes/header.html",
+		"/I/Dev/Node/taty/public/js/custom/app.js",
+		"/I/Dev/Node/taty/public/css/custom/portfolio.css",
+		"/I/Dev/Node/taty/public/css/custom/responsive.css",
+		"/I/Dev/Node/taty/app/views/home/portfolio.html",
+		"/I/Dev/Node/taty/app/views/layouts/includes/head.html",
+		"/I/Dev/Node/taty/app/views/layouts/includes/footer.html",
+		"/I/Dev/Node/taty/app/views/layouts/includes/foot.html",
+		"/I/Dev/Node/taty/public/css/custom/style.css",
+		"/I/Dev/Node/taty/public/css/responsive.css",
+		"/I/Dev/Node/taty/public/css/style-min.css",
+		"/I/Dev/Node/taty/public/css/style.css",
+		"/I/Dev/Node/taty/public/js/app.js",
+		"/I/Dev/Node/taty/public/css/cover/cover.css",
+		"/I/Dev/Node/taty/app/views/home/gal",
+		"/I/Dev/Node/taty/Projeto Drag in Drop~",
+		"/I/Dev/Node/taty/taty"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Usuarios",
+			"of",
+			"conte",
+			"of",
+			"\"of\"",
+			"of",
+			"Excluir",
+			"\n    ",
+			"category.js",
+			"*/\n",
+			"hover",
+			"col",
+			"/>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lpass.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 395.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
